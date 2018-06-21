@@ -1,0 +1,22 @@
+navbar {
+  background-color: inherit;
+}
+.top-nav-collapse {
+  background-color: #393F4D;
+}
+@media only screen and (max-width: 768px) {
+  .navbar {
+      background-color: #4285F4;
+  }
+}
+.image-responsive {
+  width:251px;
+  height: 92px;
+}
+.flex-center {
+  font-family: 'Titillium Web', sans-serif;
+}
+.img-detail {
+  width: 160px;
+  height: 90px;
+}
