@@ -40,6 +40,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "webpack-cli": "^3.0.2"
+    "webpack-cli": "^3.3.12"
   }
 }
